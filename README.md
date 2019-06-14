@@ -1,5 +1,7 @@
 # COMP1073 - Client-side JavaScript
 
+## after-class exercise 6
+
 :smiley_cat: What would you do to add 'perfect' to the last of the dscCats array? 
 (Choose everything it can be applied)
 
