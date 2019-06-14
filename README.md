@@ -1,8 +1,6 @@
 # COMP1073 - Client-side JavaScript
 
-:heart_eyes_cat:
-
-What would you do to add 'perfect' to the last of the dscCats array? 
+:smiley_cat: What would you do to add 'perfect' to the last of the dscCats array? 
 (Choose everything it can be applied)
 
 ```js
