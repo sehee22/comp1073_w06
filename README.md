@@ -1,8 +1,7 @@
 # COMP1073 - Client-Side JavaScript
 
-
-### This is a third-tier heading
-
+### after-class exercise 6
+ 
 :smiley_cat: What would you do to add 'perfect' to the last of the dscCats array? 
 (Choose everything it can be applied)
 
